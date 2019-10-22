@@ -12,7 +12,7 @@ body {
 
 header, footer {
   background-color: #ffe500;
-  margin-bottom: .3em;
+  padding-top: .75em;
 }
 
 h1 {
@@ -32,21 +32,22 @@ h1 {
 }
 
 .nav li {
+  display: inline-block;
+}
+
+.nav a {
   background-color: #b2a212;
   border-radius: 4px;
   display: inline-block;
   margin-bottom: .3em;
   padding: .75em;
-}
-
-.nav a {
   color: #fff;
   font-family: "Georgia", serif;
   font-size: 1.125em;
   text-decoration: none;
 }
 
-.nav li:hover, .nav .current {
+.nav a:hover, .nav .current {
   background-color: #cc1465;
 }
 
