@@ -49,12 +49,15 @@ h1 {
   background-color: #cc1465;
 }
 
+main {
+  padding: .2em .5em .3em;
+}
+
 h2 {
   font-family: "Sigmar One", sans-serif;
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
   margin: 0;
-  padding: .2em .5em .3em;
   display: inline-block;
 }
 
@@ -68,11 +71,12 @@ img {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
-  padding: .2em .5em .3em;
 }
 
 footer p {
   font-family: "Georgia", serif;
   font-size: .75rem;
+  margin: 0;
+  padding: 3rem;
   text-align: center;
 }
