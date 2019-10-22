@@ -12,6 +12,7 @@ body {
 
 header, footer {
   background-color: #ffe500;
+  margin-bottom: .3em;
 }
 
 h1 {
@@ -45,23 +46,24 @@ h1 {
   text-decoration: none;
 }
 
-.nav li:hover {
+.nav li:hover, .nav .current {
   background-color: #cc1465;
 }
 
 main {
-  padding: .2em .5em .3em;
+  padding: 0 .75em;
 }
 
 h2 {
   font-family: "Sigmar One", sans-serif;
   color: #b20953;
   font-size: 1.875rem;
-  margin: 0;
+  margin: .75em 0;
   display: inline-block;
 }
 
 img {
+  margin-bottom: .75em;
   width: 100%;
 }
 
@@ -71,6 +73,7 @@ img {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  margin-bottom: .75em;
 }
 
 footer p {
