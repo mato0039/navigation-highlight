@@ -74,7 +74,7 @@ img {
   color: #2f2d13;
   display: inline-block;
   font-family: Georgia, serif;
-  font-size: 1.125rem;
+  font-size: .75rem;
   line-height: 1.5;
   margin: 0;
   margin-bottom: .75em;
@@ -82,7 +82,6 @@ img {
 
 footer {
   font-family: Georgia, serif;
-  font-size: .75rem;
   margin: 0;
   padding: .75em;
   text-align: center;
