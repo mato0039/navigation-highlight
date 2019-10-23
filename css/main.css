@@ -81,8 +81,7 @@ img {
 
 footer {
   font-family: Georgia, serif;
-  font-size: .75rem;
   margin: 0;
-  padding: .75em;
+  padding: 1em 0;
   text-align: center;
 }
