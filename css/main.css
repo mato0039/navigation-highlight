@@ -65,7 +65,7 @@ h2 {
 
 img {
   display: block;
-  margin-bottom: .75em;
+  margin-bottom: 1em;
   width: 100%;
 }
 
@@ -76,7 +76,7 @@ img {
   font-size: 1rem;
   line-height: 1.5;
   margin: 0;
-  margin-bottom: .75em;
+  margin-bottom: 1em;
 }
 
 footer {
