@@ -8,6 +8,7 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
 }
 
 header, footer {
@@ -39,8 +40,7 @@ h1 {
   background-color: #b2a212;
   border-radius: 4px;
   display: inline-block;
-  margin-bottom: .3em;
-  padding: .5em .3em;
+  padding: .2em .5em .3em;
   color: #fff;
   font-family: Georgia, serif;
   font-size: 1.125em;
